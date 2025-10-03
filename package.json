@@ -1,0 +1,21 @@
+{
+  "name": "devops-pipeine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punjabigabru47/devops-pipeine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/punjabigabru47/devops-pipeine/issues"
+  },
+  "homepage": "https://github.com/punjabigabru47/devops-pipeine#readme",
+  "description": ""
+}
